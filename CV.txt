@@ -1,1 +1,23 @@
-Nice Work!
+Roman  Ivanov
+Java Software Engineer
+
+OBJECTIVE
+Oracle certified JAVA developer with 5+ years of experience in the IT industry. Highly experienced, solution-oriented and passionate about Java. 
+
+KEY SKILLS
+   - JAVA
+   - SPRING FRAMEWORK
+   - KUBERNETES
+   - ELK
+
+
+EXPERIENCE
+Sberbank, Moscow — Java developer
+SEPTEMBER 2018 - PRESENT
+Developed with my team Sber Platform V Functions service from scratch. The service is an analog of AWS Lambda. The user can upload the source code, which is built and deployed in Kubernetes. The development took us 5 months. At the moment the service is already running in a production environment.
+Rewrote with my team a solution from SAP to JAVA 11 microservices using Spring Boot. I was also responsible for migrating the microservices from the virtual machines to the Openshift cluster and connecting the logging(ELK) and monitoring(Prometheus) systems to our application. The new application showed a 500% increase in performance
+
+EDUCATION
+Moscow Lomonosov State University, Moscow — Master Degree
+SEPTEMBER 2006 - APRIL 2012
+Physics, Applied Mathematics and Physics
